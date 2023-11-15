@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Schuttelaar\\FilamentCopyActions\\FilamentCopyActionsProvider"
+                "Webbingbrasil\\FilamentCopyActions\\FilamentCopyActionsProvider"
             ]
         }
     },
