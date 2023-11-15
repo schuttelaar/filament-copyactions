@@ -1,11 +1,11 @@
 {
-    "name": "webbingbrasil/filament-copyactions",
+    "name": "schuttelaar/filament-copyactions",
     "description": "A easy-to-use copy actions for Filament Admin.",
     "keywords": [
         "laravel",
         "filament"
     ],
-    "homepage": "https://github.com/webbingbrasil/filament-copyactions",
+    "homepage": "https://github.com/schuttelaar/filament-copyactions",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "filament/filament": "^2.16"
+        "filament/filament": "^3.0"
     },
     "require-dev": {
     },
@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Webbingbrasil\\FilamentCopyActions\\FilamentCopyActionsProvider"
+                "Schuttelaar\\FilamentCopyActions\\FilamentCopyActionsProvider"
             ]
         }
     },
